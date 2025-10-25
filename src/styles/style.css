@@ -1,0 +1,36 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background: #222;
+  color: white;
+  padding: 1rem;
+}
+
+.blog-card, .blog-detail {
+  background: white;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 80%;
+}
+
+.comments textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 5px;
+  padding: 8px 12px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
